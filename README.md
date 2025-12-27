@@ -71,7 +71,7 @@ dotnet run
 ```
 4. Open Swagger UI
 ```
-http://localhost:5070/swagger
+http://localhost:5070/swagger/index.html
 ```
 5. Authenticate via `/api/v1/auth/login` and use the JWT token to access `/api/v1/tasks`.
 
@@ -114,5 +114,6 @@ Content-Type: application/json
 - Create a new branch
 - Implement features or fixes
 - Open a pull request
+
 
 
