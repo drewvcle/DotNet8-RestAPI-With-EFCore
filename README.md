@@ -110,8 +110,9 @@ Content-Type: application/json
 }
 ```
 # Contributing
-- Fork the repo
+- Fork the repo (https://github.com/drewvcle/DotNet8-RestAPI-With-EFCore)
 - Create a new branch
 - Implement features or fixes
 - Open a pull request
+
 
